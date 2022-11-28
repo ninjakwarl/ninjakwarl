@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/22649754/198240015-b397edb7-d1de-4789-80c7-f89018816e7c.png)](http://iamkarlsaycon.com)
+[![MasterHead]()](http://iamkarlsaycon.com)
 <h1 align="center">Howdy 👋</h1>
 <h3 align="center">Geek Developer. Data Artisan. Questions Humanity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjakwarl&label=Profile%20views&color=0e75b6&style=flat" alt="ninjakwarl" /> </p>
